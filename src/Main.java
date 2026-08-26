@@ -3,5 +3,6 @@
 void main() {
     System.out.println("Develop branch");
     System.out.println("Conflict from master");
-    System.out.println("Conflict from feature");}
+    System.out.println("Conflict from feature");
+    System.out.println("Hello GitHub");}
 
